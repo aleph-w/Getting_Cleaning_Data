@@ -1,0 +1,7 @@
+The glossary of terms is as follows:
+
+The Subject is the subject number of the person of interet
+
+The Activity_Type explains the type of activity
+
+Variables 3:81 are the mean of that particular variable for each subject/activity type combination.
